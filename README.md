@@ -8,13 +8,14 @@ Data Analyst from 🇮🇳 India <br><br>
 
 ---
 
-## 🚀 Projects & Portfolio  
+## 🚀 Explore My Work  
+👉 To see my **Projects & Resume**, click the badges below:  
 
 [![ETL using Python and Data Warehousing](https://img.shields.io/badge/ETL%20Project-Python%20%26%20Data%20Warehouse-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Harsha-DA-21/ETL-Portfolio-Project.git)  
 
 [![Power BI Development](https://img.shields.io/badge/Power%20BI-Dashboards%20%26%20SQL-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Harsha-DA-21/POWER-BI.git)  
 
-[![Resume](https://img.shields.io/badge/Resume-Click%20Here-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Harsha-DA-21/Resume.git)  
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Harsha-DA-21/Resume/blob/main/HARSHA%20%20A.pdf)  
 
 ---
 
