@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                                                       Data Analyst from India<br><br>📚 Currently learning AI/ML<br><br>📊 Skilled in Power BI Development, SQL Queries, and Dashboard Automation<br><br>🐍 Experienced in ETL using Python and Data Warehousing<br><br>📈 Passionate about data visualization, reporting, and decision-making<br><br>📩 Reach out: vardaharsha1@gmail.com
+   Data Analyst from India<br><br>📚 Currently learning AI/ML<br><br>📊 Skilled in Power BI Development, SQL Queries, and Dashboard Automation<br><br>🐍 Experienced in ETL using Python and Data Warehousing<br><br>📈 Passionate about data visualization, reporting, and decision-making<br><br>📩 Reach out: vardaharsha1@gmail.com
 
 
 ## 🌐 Socials:
