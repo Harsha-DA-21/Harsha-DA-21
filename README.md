@@ -15,7 +15,7 @@ Data Analyst from 🇮🇳 India <br><br>
 
 [![Power BI Development](https://img.shields.io/badge/Power%20BI-Dashboards%20%26%20SQL-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/Harsha-DA-21/POWER-BI.git)  
 
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Harsha-DA-21/Resume/blob/main/HARSHA%20%20A.pdf)  
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Harsha-DA-21/Resume/blob/main/harsha.pdf)  
 
 ---
 
